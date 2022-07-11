@@ -1,0 +1,6 @@
+{
+  "url": "http://api.weatherapi.com/v1/current.json",
+  "key": "3e4c2a995c9e490d984222831220807",
+  "parameters": "Gardnerville,Nevada",
+  "unit": "Celsius"
+}
